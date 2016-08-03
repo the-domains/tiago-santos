@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Teste]]></title>
         <description><![CDATA[Teste]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tiago-santos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 18:36:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 18:39:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tiago-santos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Oi, tudo bem? Estou passando por aqui pra testar!]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb8889ba-ffab-4fbc-8836-a0a6a39c94c0.png">]]></description>
-            <link>undefinedoi-tudo-bem-estou-passando-por-aqui-pra-testar/index.html</link>
+            <link>https://thegrid.ai/tiago-santos/oi-tudo-bem-estou-passando-por-aqui-pra-testar/index.html</link>
             <guid isPermaLink="false">dc1bf8bc-050a-46a3-9522-296c0ac785c8</guid>
             <pubDate>Wed, 03 Aug 2016 18:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Oiláaaa</p>]]></description>
+            <link>https://thegrid.ai/tiago-santos/oilaaaa/index.html</link>
+            <guid isPermaLink="false">9c295af4-0e20-41e4-84be-1695fb984268</guid>
+            <pubDate>Wed, 03 Aug 2016 18:39:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
