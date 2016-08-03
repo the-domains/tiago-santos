@@ -1,0 +1,28 @@
+name: Tiago Santos
+favicon: null
+layout_spectrum: 0.2741244880016893
+typography_spectrum: 0.652557410299778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6848490755073726
+  lightness: 0.9343433026224375
+  saturation: 0.364403277868405
+  rhythmicContrast: 0.3014620915055275
+purpose: []
